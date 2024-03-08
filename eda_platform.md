@@ -11,7 +11,8 @@
 
 ## 技术栈
 
-- 熟悉EDA软件及IC设计流程
+- 熟悉Qt工作机制，如`signal-slot`, `Graphics View Framework`框架、`layout`、`qss`等
+- 熟悉python/matlab/fortran/c/c++编程等
 
 ## 参考
 

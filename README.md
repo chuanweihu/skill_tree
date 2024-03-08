@@ -4,3 +4,4 @@
 
 - [高性能计算集群](hpc_cluster.md)
 - [EDA平台](eda_platform.md)
+- [GPU并行计算](gpu_parallel_computing.md)
